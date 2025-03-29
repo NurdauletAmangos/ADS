@@ -1,3 +1,4 @@
+//Problem 2
 public  class Average_of_an_array {
     public static double findAverage(int n, int[] arr) {
         int sum = 0;

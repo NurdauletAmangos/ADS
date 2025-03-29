@@ -14,3 +14,6 @@ Returns the smallest number in the array
 
 ## 2. Average of an array
 Returns the average value of all elements of the array
+
+## 3. Cheking whether "n" is prime or composite
+returns the number after determining whether it is prime or composite.
