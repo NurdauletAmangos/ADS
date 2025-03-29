@@ -12,4 +12,5 @@ text = """
 ## 1. Minimum of array
 Returns the smallest number in the array
 
-## 2. 
+## 2. Average of an array
+Returns the average value of all elements of the array
